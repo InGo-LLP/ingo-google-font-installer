@@ -2,17 +2,16 @@
   "name": "google-font-installer",
   "version": "1.2.0",
   "description": "Download and install Google Web Fonts on your local machine",
-  "author": "Lorenzo Zottar <lordgiotto@gmail.com>",
   "main": "./lib/google-font-list.js",
   "bin": {
     "gfi-ingo": "./cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lordgiotto/google-font-installer"
+    "url": "https://github.com/InGo-LLP/ingo-google-font-installer"
   },
   "bugs": {
-    "url": "https://github.com/lordgiotto/google-font-installer/issues"
+    "url": "https://github.com/InGo-LLP/ingo-google-font-installer/issues"
   },
   "license": "MIT",
   "keywords": [
