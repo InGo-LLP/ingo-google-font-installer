@@ -1,6 +1,6 @@
 {
-  "name": "google-font-installer",
-  "version": "1.2.0",
+  "name": "ingo-google-font-installer",
+  "version": "1.0.0",
   "description": "Download and install Google Web Fonts on your local machine",
   "main": "./lib/google-font-list.js",
   "bin": {
