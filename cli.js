@@ -5,7 +5,7 @@
 var program = require('commander');
 var colors = require('colors');
 var GoogleFontList = require('./lib/google-font-list');
-var fontList = new GoogleFontList('AIzaSyB1I5eF2kRqqs50DS8qBJtFkCTMMoQLusg');
+var fontList = new GoogleFontList('AIzaSyCuBSgpzY4s1Jea0Xb0CAHzz2Wg3vBllfs');
 var pjson = require('./package.json');
 var ncp = require("copy-paste-win32fix");
 
